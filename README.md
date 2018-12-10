@@ -1,2 +1,2 @@
 # Udacity_DSND
-My Udacity data science nanodegree program coursework
+My Udacity data science nanodegree program projects
